@@ -1,6 +1,6 @@
 # Chen_HeyDay
 
-Hey Day this year will happen on Oct.14.2020!
+Hey Day this year will happen on Oct.14.2020! Please try running this little program that gives you a virtual Hey Day experience.
 
 **What Is Hey Day?**
 
