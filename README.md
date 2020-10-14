@@ -11,6 +11,7 @@ The tradition dated all the way back to World War II. HEY DAY started when Aubur
 There will be Hey Day name tags handed out on multiple sites on campus, and digital name tags will be available for download and print on [this website](http://sga.auburn.edu/hey-day/). You can put your name on it and wear it around campus. Go ahead and greet others when you see their names on a name tag, and you'll find others saying hey back to you!
 
 **Hey Day Schedule** *pandemic special edition*
+
 8 AM: Name tag distribution begins on campus
 
 10-11 AM:  First [student virtual Hey Day event](aub.ie/virtualheyday)
